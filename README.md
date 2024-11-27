@@ -15,6 +15,13 @@ I used MySQL and PowerBI for this project I have a dashboard contains 3 differen
 
 ![image](https://github.com/user-attachments/assets/fb42192f-bd1c-4c96-966a-1ea72d9ed5e2)
 
+We can make our analysis spesific to a year, month, region, city most of the main parameters you can think which can help us to analyse and make better data driven desicions. Like you can see below. 
+
+![image](https://github.com/user-attachments/assets/1fb0a2b9-5c22-4d6e-8816-1a181895b485)
+
+
+
+
 
 
 
